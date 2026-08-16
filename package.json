@@ -1,0 +1,8 @@
+{
+  "name": "netlify-live-chess-puzzle",
+  "private": true,
+  "version": "1.0.1",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
